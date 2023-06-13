@@ -1,0 +1,37 @@
+.StyleCalculater{
+    background-color:lightblue;
+    width:280px ;
+    border-radius: 20px;
+}
+
+/* .cal{
+    width: 270px;
+    margin: 100px ;
+
+} */
+.inputfield{
+ width: 250px;
+ margin-top: 10px;
+ font-size: 30px;
+ height: 40px;
+ border: 3px solid black;
+ text-align: right;
+}
+.button{
+    margin: 3px;
+    width: 60px;
+    height: 60px;
+    background-color: #333;
+    font-size: 30px;
+    color: aliceblue;
+    /* border: 2px solid white; */
+    
+}
+.button1{
+    width: 120px;
+    height: 50px;
+    background-color: #333;
+    font-size: 30px;
+    color: aliceblue;
+    border: 2px solid black;
+}

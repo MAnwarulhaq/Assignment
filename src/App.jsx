@@ -1,8 +1,13 @@
 import "./App.css"
-import { TodoList } from "./todoList/TodoList"
+import Calculater from "./Calculater/calculater";
 
-function App() {
-  return <TodoList />
+const App=() =>{
+
+
+  return(
+    <Calculater />
+    
+    
+  )
 }
-
-export default App
+export default App;
